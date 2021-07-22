@@ -5,7 +5,8 @@ indice de ejercicios de practica
 
 
 apliaccion de ciclos y condicionales 
-problemario UTB pagina 69
+
+
 ----> 1 suma_fibonachi.cpp :calcule la suma de los terminos de la serie de FIBONACCI
 cuyos valores se encuentran entrre 100 y 10,000 
 
@@ -26,24 +27,32 @@ cuyos valores se encuentran entrre 100 y 10,000
 ----> 9 angri_birds.cpp : aplicacion del mpvimien to parabolico uniforme usando bucles y condicionales
 
 
+
 aplicacion de estructuras de datos listas tuplas matrives etc 
-problemario UTB pagina 101
+problemario UTB pagina 
+
 ----> 10 cero_impar.cpp : en una lista de n elementos combertir los elementos impares en cero 
 
+
 ----> 11 f_listas.cpp : cramos algunas funciones que realicen operaciones bacicas entre vectores
+
 
 ---> 12 orden_listas.cpp: a partir de una lista en desorden la ordenamos de mayor a menor y veceberza
 
 
+
 aplicacion de conocimientos generales
+
 ---> 50 funciones_random.cpp : en este archivo se encuentran funciones cono
-                    matematicas basicas                            name                    librerias    probadas
+
+                  
+                  atematicas basicas                            name                    librerias    probadas
             # evaluar si un numero es par 0 impar ---> linea 10  : par_impar()              >>  none       si
+            
             # evaluar si un numero es primo o no  ---> linea 21 : n_primo()                 >>  none       si
             # hayar el factorial de un numero     ---> linea 36 : factorial()               >>  none       si
             # hayar el valor absoluto de un numero---> linea 46 : valor_obsoluto()          >>  none       si
         
-
                    listas y matrices
             # crear una lista con numeros aleatorios-> linea 58 : create_lista()            >>  stdlib.h   si
                                                                                                 time.h
